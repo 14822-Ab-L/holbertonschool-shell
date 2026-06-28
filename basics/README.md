@@ -29,3 +29,5 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 13-symbolic_link creates a symbolic link named __ls__ that points to /bin/ls using ln -s.
 
 14-copy_html copies all HTML files from the current directory to the parent directory, updating only newer files using cp -u.
+
+15-lets_move moves all files beginning with an uppercase letter from the current directory to /tmp/u using a wildcard pattern.
