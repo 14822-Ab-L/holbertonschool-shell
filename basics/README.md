@@ -27,3 +27,5 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 12-file_type prints the type of the file iamafile located in /tmp using the file command.
 
 13-symbolic_link creates a symbolic link named __ls__ that points to /bin/ls using ln -s.
+
+14-copy_html copies all HTML files from the current directory to the parent directory, updating only newer files using cp -u.
