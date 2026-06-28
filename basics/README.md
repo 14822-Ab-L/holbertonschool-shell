@@ -25,3 +25,5 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 11-lists lists all files in the current directory, parent directory, and /boot directory in long format including hidden files.
 
 12-file_type prints the type of the file iamafile located in /tmp using the file command.
+
+13-symbolic_link creates a symbolic link named __ls__ that points to /bin/ls using ln -s.
