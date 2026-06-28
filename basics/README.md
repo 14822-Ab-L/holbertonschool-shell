@@ -9,3 +9,5 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 3-listfiles displays the contents of the current directory in long format using ls -l.
 
 4-listmorefiles displays all files (including hidden ones) in long format using ls -la.
+
+5-listfilesdigitonly displays all files including hidden ones in long format using numeric user and group IDs.
