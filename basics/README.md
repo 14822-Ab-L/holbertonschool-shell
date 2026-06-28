@@ -33,3 +33,5 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 15-lets_move moves all files beginning with an uppercase letter from the current directory to /tmp/u using a wildcard pattern.
 
 16-clean_emacs deletes all files ending with ~ in the current directory using rm *~.
+
+17-tree creates a nested directory structure welcome/to/school using mkdir -p.
