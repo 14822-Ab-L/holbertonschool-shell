@@ -16,3 +16,4 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 
 7-movethatfile moves the file betty from /tmp to /tmp/my_first_directory using the mv command.
 
+8-firstdelete deletes the file betty from /tmp/my_first_directory using the rm command.
