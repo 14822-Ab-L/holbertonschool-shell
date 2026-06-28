@@ -11,3 +11,5 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 4-listmorefiles displays all files (including hidden ones) in long format using ls -la.
 
 5-listfilesdigitonly displays all files including hidden ones in long format using numeric user and group IDs.
+
+6-firstdirectory creates a directory named my_first_directory inside /tmp using mkdir.
