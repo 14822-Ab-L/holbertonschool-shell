@@ -13,3 +13,6 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 5-listfilesdigitonly displays all files including hidden ones in long format using numeric user and group IDs.
 
 6-firstdirectory creates a directory named my_first_directory inside /tmp using mkdir.
+
+7-movethatfile moves the file betty from /tmp to /tmp/my_first_directory using the mv command.
+
