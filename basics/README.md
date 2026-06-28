@@ -19,3 +19,5 @@ This directory contains shell scripts that demonstrate basic Linux commands.
 8-firstdelete deletes the file betty from /tmp/my_first_directory using the rm command.
 
 9-firstdirdeletion deletes the directory my_first_directory from /tmp using rm -r.
+
+10-back changes the current working directory to the previous one using the cd - command.
